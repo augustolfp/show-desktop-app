@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/home/augustolfp/MyScripts/Show_Desktop/ShowDesktop.sh
+Name=Show Desktop
+Icon=/home/augustolfp/MyScripts/Show_Desktop/Desktop_icon.jpg
